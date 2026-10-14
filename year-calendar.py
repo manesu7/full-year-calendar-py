@@ -1,5 +1,4 @@
 import calendar
-# Import the module and give it a short name like 'inp'
 import pyinputplus as inp
 
 # This safely forces the user to enter a valid integer
